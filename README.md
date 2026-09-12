@@ -1,16 +1,5 @@
-# Grain Homebrew tap
+# Grain Homebrew distribution
 
-Official Homebrew distribution for [Grain](https://rungrain.com), maintained by the Grain team.
+Grain's Homebrew tap is now maintained at [dcouple/homebrew-tap](https://github.com/dcouple/homebrew-tap).
 
-## Release status
-
-The first Homebrew release is being prepared. This repository does not yet contain an installable cask.
-
-Once the signed release and cask are published, installation will be:
-
-```sh
-brew install --cask rakesoft/tap/grain
-grain setup
-```
-
-Grain includes its CLI and MCP server. Setup will guide you through browser signup or sign-in, configure selected supported agents, verify the configuration, and launch Grain.
+The first release is still being prepared. This repository has no installable cask. See the new tap for release status and installation instructions.
